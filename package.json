@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gitbook": "^2.0.1",
+    "gitbook-plugin-exercises": "^1.0.0",
+    "gitbook-plugin-multipart": "^0.3.0",
+    "gitbook-plugin-richquotes": "0.0.5"
+  }
+}
